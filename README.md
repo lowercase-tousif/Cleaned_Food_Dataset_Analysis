@@ -2,7 +2,6 @@
 
 A collection of beginner-friendly data analysis projects exploring a global food dataset. This repository is for practicing and showcasing basic data analysis and visualization skills using Python.
 
----
 
 ## 📊 About the Dataset
 
@@ -15,7 +14,6 @@ This repository uses the `cleaned_food_data.csv` dataset, which contains informa
 * **Preparation Time:** Time required to prepare the dish (in minutes).
 * **Popularity Rank:** A rank indicating the popularity of the dish.
 
----
 
 ## 🚀 Projects
 
@@ -33,7 +31,7 @@ Here are the projects included in this repository:
 * **Goal:** To investigate if there is a relationship between how long a dish takes to prepare and how popular it is.
 * **Techniques:** Used a scatter plot (`scatterplot()`) to visualize the correlation between `Preparation Time` and `Popularity Rank`.
 
----
+
 
 ## 🛠️ Tools and Libraries Used
 
@@ -43,7 +41,6 @@ Here are the projects included in this repository:
     * [Matplotlib](https://matplotlib.org/): For creating static, animated, and interactive visualizations.
     * [Seaborn](https://seaborn.pydata.org/): For making statistical graphics more attractive and informative.
 
----
 
 ## 💻 How to Run the Projects
 
